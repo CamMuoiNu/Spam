@@ -8,7 +8,7 @@ import subprocess
 import requests
 import sys
 #Điền bot token của bạn
-bot_token = '7912820817:AAHXYixVjMFF665zfqnHkdDt10HeFILmC9s'
+bot_token = '8158596649:AAECuCSVqf52Wr-d24DgFOwYclcoADycbTE'
 bot = telebot.TeleBot(bot_token)
 #Điền id tele của mình
 processes = []
