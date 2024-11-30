@@ -8,11 +8,11 @@ import subprocess
 import requests
 import sys
 #Điền bot token của bạn
-bot_token = '7483342854:AAG2RO0uMjdU7tdDczLRgfxGxrSdBbFzImU'
+bot_token = '7912820817:AAHXYixVjMFF665zfqnHkdDt10HeFILmC9s'
 bot = telebot.TeleBot(bot_token)
 #Điền id tele của mình
 processes = []
-ADMIN_ID = '1780881954'
+ADMIN_ID = '8106140502'
 
 def TimeStamp():
     return str(datetime.date.today())
